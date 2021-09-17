@@ -10,7 +10,7 @@ W3.School's official documentation for CSS clasess, examples, and more:
 https://www.w3schools.com/w3css/w3css_downloads.asp
 
 ## JSdelivr CDN Links
-HTML Tags + Minified (Purges unused classes in devolpment)
+HTML Tags + Minified (Purges unused classes in the production build)
 <br>
 ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Eshanepicfighter/W3.CSS-Mirror/w3.min.css">```
 
