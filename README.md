@@ -9,6 +9,7 @@ W3.School's official documentation for CSS clasess, examples, and more: https://
 
 ## JSdelivr CDN Links
 With html tags
+<br>
 ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Eshanepicfighter/W3.CSS-Mirror/w3.css">```
 
 Or just the plain URL
