@@ -12,7 +12,7 @@ https://www.w3schools.com/w3css/w3css_downloads.asp
 ## JSdelivr CDN Links
 HTML Tags + Minified (Purges unused classes in the production build)
 <br>
-```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Eshanepicfighter/W3.CSS-Mirror/w3.min.css">```
+```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Eshan-K-I/W3.CSS-Mirror/w3.min.css">```
 
 Minified URL
 <br>
@@ -21,8 +21,8 @@ Minified URL
 
 With HTML tags (Not Minified)
 <br>
-```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Eshanepicfighter/W3.CSS-Mirror/w3.css">```
+```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Eshan-K-I/W3.CSS-Mirror/w3.css">```
 
 Or just the plain URL
 <br>
-```https://cdn.jsdelivr.net/gh/Eshanepicfighter/W3.CSS-Mirror/w3.css```
+```https://cdn.jsdelivr.net/gh/Eshan-K-I/W3.CSS-Mirror/w3.css```
