@@ -16,7 +16,7 @@ HTML Tags + Minified (Purges unused classes in the production build)
 
 Minified URL
 <br>
-```https://cdn.jsdelivr.net/gh/Eshanepicfighter/W3.CSS-Mirror/w3.min.css```
+```https://cdn.jsdelivr.net/gh/Eshan-K-I/W3.CSS-Mirror/w3.min.css```
 
 
 With HTML tags (Not Minified)
